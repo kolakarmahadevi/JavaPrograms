@@ -10,11 +10,14 @@ public class JavaProgram {
 	System.out.println(c);
 	
 	c=a-b;
-	System.out.println("the subtraction is "+c);
+	System.out.println("the sub is "+c);
 	
 	
 	c=a*b;
-	System.out.println("the subtraction is "+c);
+	System.out.println("the mul is "+c);
+	
+	c=a/b;
+	System.out.println("the div is "+c);
 	
 
 	}
