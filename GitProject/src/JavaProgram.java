@@ -11,6 +11,11 @@ public class JavaProgram {
 	
 	c=a-b;
 	System.out.println("the subtraction is "+c);
+	
+	
+	c=a*b;
+	System.out.println("the subtraction is "+c);
+	
 
 	}
 
